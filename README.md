@@ -18,3 +18,7 @@ How to run
 - Draw boundary decision:
 
 	$ python boundary_decision.py
+
+Solution
+--------
+Please see file Report_solution.pdf
